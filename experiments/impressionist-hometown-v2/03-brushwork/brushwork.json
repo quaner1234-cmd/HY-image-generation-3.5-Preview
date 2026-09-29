@@ -1,0 +1,47 @@
+{
+  "job": "03-brushwork",
+  "task": "Impressionist translation v2 (04_32_33) - 03 brushwork-first",
+  "request_id": "71b98ef8-6a42-4cff-aa8a-e68d7f30a8d5",
+  "status": "success",
+  "model": "hy-image-v3.5-preview",
+  "size": "1024x1368",
+  "reference": "references/ChatGPT Image Sep 28, 2026, 04_32_33 PM.jpg",
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "3f08f619b839bcd824c08a7c7b235f33f85d2b06086192f7af6d582828f2d882",
+  "elapsed_seconds": 79.0,
+  "elapsed_note": "server side; the foreground command hit the 30s limit and the result was retrieved from the request list instead of being re-generated",
+  "recovered": true,
+  "bytes": 2695211,
+  "dimensions": "1024x1360",
+  "sha256": "d1d474e0f28980d0dcc6e196ef2964c9969a4321b90bd1eee65c5b676daa7183",
+  "output": "brushwork.png",
+  "media_url": "https://storage.googleapis.com/gmi-video-assests-prod/user-assets/267c1f15-53da-4f26-906d-f774cae3f905/ad6647b6-5bf6-4cbc-87ba-0e5b82c9564c/gmi-videogen/generated/source_image_71b98ef8-6a42-4cff-aa8a-e68d7f30a8d544ca1523-ef62-4f37-b71a-31453474043e.png",
+  "raw_response": {
+    "request_id": "71b98ef8-6a42-4cff-aa8a-e68d7f30a8d5",
+    "org_id": "267c1f15-53da-4f26-906d-f774cae3f905",
+    "user_id": "ad6647b6-5bf6-4cbc-87ba-0e5b82c9564c",
+    "model": "hy-image-v3.5-preview",
+    "status": "success",
+    "is_public": false,
+    "payload": {
+      "prompt": "以这张参考照片为唯一依据，创作一幅以笔触为骨架、有展览完成度的印象派油画。地点身份、视点、地平线高度与基本构图保持不变——这是华北平原一个秋末傍晚的菜地，落日紧贴地平线。\n\n【视觉重心】这幅画的重心是笔触的组织方式，以及\"厚与薄、疏与密\"之间的对话：前景叶菜是用笔最厚、最多变的区域，天空是最薄、最舒展的区域，中景的菜畦与田垄提供方向一致的重复节奏，逆光中的大树与地平线林带用最少的笔触交代结构。\n\n【笔触体系——按区域分别组织】\n- 前景叶菜：短促、方向多变的厚笔触，一笔交代一个叶面的朝向，层层堆叠出叶丛的体积与重量；颜料厚薄要有起伏，允许留下明显的落笔与提笔痕迹，不要揉匀、不要擦平。\n- 中景菜畦与田垄：较长的方向性笔触，顺着垄沟的透视方向走，用笔的疏密制造重复的节奏感，不要变成整齐的平行线图案。\n- 天空与云：薄涂、宽扫笔，横向与斜向交错扫出，让底层颜色隐约透出，云的边缘不要收得太干净。\n- 大树与林带：点簇与短笔触暗示枝叶的疏密和逆光下的轮廓，不要一片一片地描叶子。\n- 远景：笔触尽可能少、尽可能湿，让物象彼此融在一起，只保留形体感。\n\n【边缘与虚实】近处边缘明确，远处边缘融化；同一幅画里笔触的大小、密度、湿度必须有差别，不要让整幅画处处是同等密度的笔触。\n\n【光与色为笔触提供依据】低角度暖光从地平线方向来：亮部用暖而薄的笔触，暗部用大块冷绿与紫灰的松笔触，不许用黑色，也不用白色直接画光。\n\n【概括与辨识度】让人能认出这是华北平原的傍晚菜地——大片叶菜、菜畦垄沟的重复线条、中景独立大树、地平线林带与村舍、远方铁塔——但它们的形体由笔触与色块的边界交代，不要勾轮廓线，不要逐物体描边。\n\n【底线】\n- 保持地点身份与基本构图，不要移动地平线、不要改变视角。\n- 照片中的现实元素——土地、田垄、树、村舍、电线杆、高压铁塔——是这个地方的真实身份，保持它们如实存在，不要刻意清除。\n- 不要幻想化：不添加原照片没有的山、河、湖、海、森林、城堡、欧式建筑、人物、牲畜、鸟群、灯光。\n- 不要欧式乡村化：不要起伏丘陵、石墙、教堂尖顶、欧式农舍。\n- 不要滤镜感与塑料感：不要光滑均匀的数字涂抹、不要发光边缘、不要在照片上覆盖一层油画纹理；要的是真实的手绘笔触逻辑。\n- 不要过度甜美：不要糖果色、不要梦幻粉调、不要装饰画式的均匀色块。\n- 不要文字、字母、数字、印章、签名、水印、logo、边框或画框。\n- 竖构图。",
+      "size": "1024x1368"
+    },
+    "outcome": {
+      "media_urls": [
+        {
+          "height": 1368,
+          "id": "0",
+          "type": "image",
+          "url": "https://storage.googleapis.com/gmi-video-assests-prod/user-assets/267c1f15-53da-4f26-906d-f774cae3f905/ad6647b6-5bf6-4cbc-87ba-0e5b82c9564c/gmi-videogen/generated/source_image_71b98ef8-6a42-4cff-aa8a-e68d7f30a8d544ca1523-ef62-4f37-b71a-31453474043e.png",
+          "width": 1024
+        }
+      ],
+      "request_id": "e002bb4a-8415-4edc-8eeb-7577b8f325f3",
+      "thumbnail_image_url": "https://storage.googleapis.com/gmi-video-assests-prod/user-assets/267c1f15-53da-4f26-906d-f774cae3f905/ad6647b6-5bf6-4cbc-87ba-0e5b82c9564c/gmi-videogen/generated/source_image_71b98ef8-6a42-4cff-aa8a-e68d7f30a8d544ca1523-ef62-4f37-b71a-31453474043e.png"
+    },
+    "created_at": 1790645430,
+    "updated_at": 1790645509,
+    "queued_at": 1790645430
+  }
+}

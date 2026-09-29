@@ -1,0 +1,28 @@
+{
+  "request_id": "cb3bb88d-9d6d-4feb-ac8f-b0f5c43c172c",
+  "org_id": "267c1f15-53da-4f26-906d-f774cae3f905",
+  "user_id": "ad6647b6-5bf6-4cbc-87ba-0e5b82c9564c",
+  "model": "hy-image-v3.5-preview",
+  "status": "success",
+  "is_public": false,
+  "payload": {
+    "prompt": "把这张老家农田的手机照片，转译成一幅印象派油画（保守版：更忠实于原照片）。\n\n以照片为唯一依据：构图、视点、地平线高度、每个物体的位置与大小关系全部保持原样，只做绘画化处理。\n\n画面必须与照片一致的内容：\n- 天空：几乎无云的干净渐变，从顶部深蓝紫色，经中段淡紫灰，到贴近地平线的橙黄暖带，过渡极为平滑。\n- 中景右侧：一排高大、掉光叶子的杨树/泡桐，细密的枝干在明亮天光前呈剪影；树列左侧有一棵树冠深色、呈圆锥形的常绿树。\n- 树列右后方：灰白色平顶村舍，白墙上有深色门窗；画面最右边缘还有白色墙面建筑与农用杂物。\n- 远景地平线：细小的电线杆、输电铁塔与低矮棚屋。\n- 前景：整片绿色麦田/菜地，可见黑色垄沟线条与浅绿色苗带；画面左下方有一条斜向的田埂与小路伸向画面中部。\n- 土地平坦开阔，地平线很低。\n\n绘画处理（保守版）：\n- 保持照片原有的光色关系与明度层次，仅把细碎的摄影细节概括成清晰可见的油画笔触；\n- 色彩略作提纯：天空用极柔和的横向色带笔触过渡（深蓝紫→淡紫灰→橙黄），麦苗分出偏黄与偏蓝的绿，裸土偏暖褐；\n- 笔触以横向与斜向的平铺笔触为主，秃树细枝用细而果断的线状笔触，麦田用短促的斜向笔触；\n- 不改变原图温和的亮度氛围：不加大光比，不加入戏剧化光束，不做强烈的明暗对比。\n\n严禁：\n- 不添加照片中不存在的任何元素：山峰、山脉、河流、湖泊、海岸、森林、花园、城堡、欧式庄园、新房屋、路灯、人物、牲畜、鸟群；\n- 不欧洲化、不幻想化，不做仙气或梦幻光效，不要巨大日轮光晕，不要星空；\n- 不出现任何文字、字母、数字、印章、签名、边框、画框、水印、logo；\n- 不改变低平的地平线与土地平坦辽阔的真实关系，不给地面添加丘陵起伏。",
+    "size": "1024x1368"
+  },
+  "outcome": {
+    "media_urls": [
+      {
+        "height": 1368,
+        "id": "0",
+        "type": "image",
+        "url": "https://storage.googleapis.com/gmi-video-assests-prod/user-assets/267c1f15-53da-4f26-906d-f774cae3f905/ad6647b6-5bf6-4cbc-87ba-0e5b82c9564c/gmi-videogen/generated/source_image_cb3bb88d-9d6d-4feb-ac8f-b0f5c43c172cd78f36df-c7c8-40e1-b626-1fdeaef9115f.png",
+        "width": 1024
+      }
+    ],
+    "request_id": "405e9e33-f206-457d-b229-d85bb60a5ad5",
+    "thumbnail_image_url": "https://storage.googleapis.com/gmi-video-assests-prod/user-assets/267c1f15-53da-4f26-906d-f774cae3f905/ad6647b6-5bf6-4cbc-87ba-0e5b82c9564c/gmi-videogen/generated/source_image_cb3bb88d-9d6d-4feb-ac8f-b0f5c43c172cd78f36df-c7c8-40e1-b626-1fdeaef9115f.png"
+  },
+  "created_at": 1790643552,
+  "updated_at": 1790643597,
+  "queued_at": 1790643552
+}

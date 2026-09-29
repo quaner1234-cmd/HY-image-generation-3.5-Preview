@@ -1,0 +1,8 @@
+{
+  "request_id": "22f57108-a720-4378-944f-586fed49c35e",
+  "model": "hy-image-v3.5-preview",
+  "status": "success",
+  "mode": "text-to-image (no reference)",
+  "size": "1152x1536",
+  "elapsed_seconds": 25.9
+}

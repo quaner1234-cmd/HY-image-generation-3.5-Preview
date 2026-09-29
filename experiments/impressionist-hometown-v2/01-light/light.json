@@ -1,0 +1,38 @@
+{
+  "job": "01-light",
+  "task": "Impressionist translation v2 (04_32_33) - 01 light-first",
+  "request_id": "3f3fcd94-8508-4b4a-86f6-d24c59cd2a55",
+  "status": "success",
+  "model": "hy-image-v3.5-preview",
+  "size": "1024x1368",
+  "reference": "references/ChatGPT Image Sep 28, 2026, 04_32_33 PM.jpg",
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "dee96304c0c28eeabc866a6f878cafefdac8314d088f0d346e64553c29861f5d",
+  "elapsed_seconds": 23.0,
+  "bytes": 2474052,
+  "dimensions": "1024x1360",
+  "sha256": "97ae4c36e574addfd07833af3aae62c18c7d265db3f76bcc493d0cf7b276f9e6",
+  "output": "light.png",
+  "media_url": "https://storage.googleapis.com/gmi-video-assests-prod/user-assets/267c1f15-53da-4f26-906d-f774cae3f905/ad6647b6-5bf6-4cbc-87ba-0e5b82c9564c/gmi-videogen/generated/source_image_3f3fcd94-8508-4b4a-86f6-d24c59cd2a55ca622daa-5bc2-468a-bfd3-44742a6ed99e.png",
+  "raw_response": {
+    "request_id": "3f3fcd94-8508-4b4a-86f6-d24c59cd2a55",
+    "model": "hy-image-v3.5-preview",
+    "status": "success",
+    "created_at": 1790645356,
+    "updated_at": 1790645377,
+    "queued_at": 1790645356,
+    "outcome": {
+      "media_urls": [
+        {
+          "height": 1368,
+          "id": "0",
+          "type": "image",
+          "url": "https://storage.googleapis.com/gmi-video-assests-prod/user-assets/267c1f15-53da-4f26-906d-f774cae3f905/ad6647b6-5bf6-4cbc-87ba-0e5b82c9564c/gmi-videogen/generated/source_image_3f3fcd94-8508-4b4a-86f6-d24c59cd2a55ca622daa-5bc2-468a-bfd3-44742a6ed99e.png",
+          "width": 1024
+        }
+      ],
+      "request_id": "0d69e82e-1b40-4216-97c2-f6e762f7aa7f",
+      "thumbnail_image_url": "https://storage.googleapis.com/gmi-video-assests-prod/user-assets/267c1f15-53da-4f26-906d-f774cae3f905/ad6647b6-5bf6-4cbc-87ba-0e5b82c9564c/gmi-videogen/generated/source_image_3f3fcd94-8508-4b4a-86f6-d24c59cd2a55ca622daa-5bc2-468a-bfd3-44742a6ed99e.png"
+    }
+  }
+}

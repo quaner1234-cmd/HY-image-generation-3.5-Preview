@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 编译产物（由 ocr.swift 生成，可重新编译）
+ocr
+*.o
+*.dSYM/
+
+# 临时文件
+tmp/
+*.log
+
+# 默认生图输出目录 (run.cmd / gen.py 自动创建)
+outputs/
+
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Temporary scaffolds and recovery cache (never commit)
+_tmp_*
+_recover_cache.json
+
+# Firecrawl research cache
+.firecrawl/
+
+# Private local inputs and credentials (never publish)
+references/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx

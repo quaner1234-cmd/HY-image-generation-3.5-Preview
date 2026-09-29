@@ -1,0 +1,51 @@
+{
+  "job": "01-repaint",
+  "task": "Impressionist repaint v4 (04_32_33) - 01 full repaint, no photographic texture",
+  "request_id": "508ac125-76dd-4f06-a184-2e64c89ffff6",
+  "status": "success",
+  "model": "hy-image-v3.5-preview",
+  "size": "1024x1368",
+  "references": [
+    "references/ChatGPT Image Sep 28, 2026, 04_32_33 PM.jpg",
+    "references/style-refs/style-09_41_53_AM-5.jpg"
+  ],
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "90c89a54a818f87b05f0eae46b2b8f0a5d5bb2d999f0f83bbe08a0402674b31d",
+  "elapsed_seconds": 22.0,
+  "elapsed_note": "server side; the foreground command hit the 30s limit and the result was retrieved from the request list instead of being re-generated",
+  "recovered": true,
+  "bytes": 2782563,
+  "dimensions": "1024x1360",
+  "api_metadata_size": "1024x1368",
+  "sha256": "0b2de10ceb34cd1f888ed8e30ada1d1d8b37d381fa1b6fbe99e4c6954658db8e",
+  "output": "repaint.png",
+  "media_url": "https://storage.googleapis.com/gmi-video-assests-prod/user-assets/267c1f15-53da-4f26-906d-f774cae3f905/ad6647b6-5bf6-4cbc-87ba-0e5b82c9564c/gmi-videogen/generated/source_image_508ac125-76dd-4f06-a184-2e64c89ffff6e358498e-57f7-4a04-9b77-40d75723c6d3.png",
+  "raw_response": {
+    "request_id": "508ac125-76dd-4f06-a184-2e64c89ffff6",
+    "org_id": "267c1f15-53da-4f26-906d-f774cae3f905",
+    "user_id": "ad6647b6-5bf6-4cbc-87ba-0e5b82c9564c",
+    "model": "hy-image-v3.5-preview",
+    "status": "success",
+    "is_public": false,
+    "payload": {
+      "prompt": "参考图分工（先读清楚再下笔）：\n- **第一张参考图**：我用手机实拍的照片。它只提供**真实地点、构图和物体关系**——也就是这幅画的骨架。\n- **第二张参考图**：同一地点的厚涂印象派油画。它只提供**绘画语言**——也就是这幅画应该怎么被画出来。\n\n任务：请把第一张照片中的整个画面，重新绘制成第二张图那种厚涂印象派油画。\n\n非常重要（逐条落实到画面上，不得打折）：\n- 不要保留第一张照片中的任何摄影纹理。\n- 不要让任何区域看起来像\"照片经过油画处理\"。\n- 天空、树木、远景、田野、道路以及前景的白菜和叶菜，都必须重新用可见的油画笔触和色块塑造。\n\n尤其是前景叶菜：\n- 不要保留真实照片中的叶脉、锐利边缘和摄影式表面质感。\n- 把它们概括为**有方向、有厚度、有冷暖变化**的绿色笔触和色块。\n- 仍然能看出是田里的叶菜，但首先应该看起来是\"画出来的\"，而不是\"拍出来的\"。\n\n约束：\n- 保持原照片的地点、构图和主要元素，不新增主要景物。\n- 最终整幅画必须在同一种绘画语言里，没有\"照片区域\"和\"油画区域\"的割裂。\n\n底线（必须遵守）：\n- 不要幻想化：不添加原照片没有的山、河、湖、海、森林、城堡、欧式建筑、人物、牲畜、鸟群、灯笼或灯光。\n- 不要欧式乡村化：不要起伏丘陵、石墙、教堂尖顶、欧式农舍。\n- 不要过度甜美：不要糖果色、不要梦幻粉调、不要光斑堆砌、不要纪念品装饰画式的均匀色块。\n- 不要逐物体描边：让色块与笔触的交界交代形体。\n- 不要文字、字母、数字、印章、签名、水印、logo、边框或画框。\n- 竖构图。",
+      "size": "1024x1368"
+    },
+    "outcome": {
+      "media_urls": [
+        {
+          "height": 1368,
+          "id": "0",
+          "type": "image",
+          "url": "https://storage.googleapis.com/gmi-video-assests-prod/user-assets/267c1f15-53da-4f26-906d-f774cae3f905/ad6647b6-5bf6-4cbc-87ba-0e5b82c9564c/gmi-videogen/generated/source_image_508ac125-76dd-4f06-a184-2e64c89ffff6e358498e-57f7-4a04-9b77-40d75723c6d3.png",
+          "width": 1024
+        }
+      ],
+      "request_id": "e4f82975-8479-4ba4-b515-47bd30a79403",
+      "thumbnail_image_url": "https://storage.googleapis.com/gmi-video-assests-prod/user-assets/267c1f15-53da-4f26-906d-f774cae3f905/ad6647b6-5bf6-4cbc-87ba-0e5b82c9564c/gmi-videogen/generated/source_image_508ac125-76dd-4f06-a184-2e64c89ffff6e358498e-57f7-4a04-9b77-40d75723c6d3.png"
+    },
+    "created_at": 1790649366,
+    "updated_at": 1790649388,
+    "queued_at": 1790649366
+  }
+}

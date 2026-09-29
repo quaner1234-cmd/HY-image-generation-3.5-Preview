@@ -1,0 +1,25 @@
+Full name: PLACEHOLDER
+
+GMI Cloud account email: PLACEHOLDER
+
+Country: PLACEHOLDER
+
+X handle: PLACEHOLDER
+
+Link to public X post: PLACEHOLDER
+
+Track: Track 2 — Commercial
+
+Title: The Field I Remember
+
+Prompt or workflow description:
+I began with a photograph I took of an ordinary harvested field in my hometown on the North China Plain. Early text-only, reference-guided, and style-transfer studies helped define the visual language. Supporting AI tools assisted with exploration and workflow organization, while the final image was generated with Hy Image 3.5 Preview through GMI Cloud. The final request used an intermediate composition reference derived from the hometown-photo exploration and a public-domain Claude Monet museum image as a style-only reference. I preserved the lone tree, village horizon, utility poles, transmission towers, and dark burned corn-stalk traces, translating them through broken color, softened edges, and atmospheric light. AI did not invent a prettier hometown; it helped me see a known place differently.
+
+Link to the work (image, gallery, or short video): PLACEHOLDER
+
+Required confirmations before submission:
+[ ] This is original work made during the campaign.
+[ ] I give GMI Cloud and Tencent Hunyuan permission to feature this work, including at LA and SF Tech Week.
+
+Optional:
+[ ] Send me product updates.

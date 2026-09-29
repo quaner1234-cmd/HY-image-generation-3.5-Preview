@@ -1,0 +1,21 @@
+{
+  "request_id": "483cccc9-7e43-4e60-a3ec-0a5e8125912c",
+  "model": "hy-image-v3.5-preview",
+  "status": "success",
+  "created_at": 1790394081,
+  "updated_at": 1790394103,
+  "queued_at": 1790394081,
+  "outcome": {
+    "media_urls": [
+      {
+        "height": 2048,
+        "id": "0",
+        "type": "image",
+        "url": "https://storage.googleapis.com/gmi-video-assests-prod/user-assets/267c1f15-53da-4f26-906d-f774cae3f905/ad6647b6-5bf6-4cbc-87ba-0e5b82c9564c/gmi-videogen/generated/source_image_483cccc9-7e43-4e60-a3ec-0a5e8125912c848347f3-d2d8-4de4-9558-bd9ac813c47c.png",
+        "width": 2048
+      }
+    ],
+    "request_id": "8d6ae7c0-c6e8-4ec3-93eb-f9f6b0a2b036",
+    "thumbnail_image_url": "https://storage.googleapis.com/gmi-video-assests-prod/user-assets/267c1f15-53da-4f26-906d-f774cae3f905/ad6647b6-5bf6-4cbc-87ba-0e5b82c9564c/gmi-videogen/generated/source_image_483cccc9-7e43-4e60-a3ec-0a5e8125912c848347f3-d2d8-4de4-9558-bd9ac813c47c.png"
+  }
+}
